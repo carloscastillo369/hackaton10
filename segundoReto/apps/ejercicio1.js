@@ -5,3 +5,4 @@ const info=(nombre,apellido,edad)=>{
 
 console.log(info('Sebastian','Yabiku',33));
 
+

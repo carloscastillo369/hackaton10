@@ -6,7 +6,8 @@ function capLast(a){
     let c=b.pop();
     let d=c.toUpperCase();
     let e=b.concat(d);
-    return e;
+    let f=e.join("");
+    return f;
 
 }
 
