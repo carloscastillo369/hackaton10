@@ -1,6 +1,6 @@
 /*
 function sumOfCubes(a,b,c){
-    return a*a*a + b*b*b + c*c*c;
+    return a**3 + b**3 + c**3;
 }
 
 console.log(sumOfCubes(1,5,9));

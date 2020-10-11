@@ -6,9 +6,7 @@ function capLast(a){
     let c=b.pop();
     let d=c.toUpperCase();
     let e=b.concat(d);
-    let f=e.join("");
-    return f;
-
+    return e.join("");
 }
 
 console.log(capLast(word));
