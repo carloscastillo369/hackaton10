@@ -1,10 +1,8 @@
 /*
 let word='I am finding Nemo !';
 
-let b=word.split(" ");
-
 function findNemo(a){
-    let b=word.split(" ");
+    let b=a.split(" ");
     let c=0;
     for(let i=0;i<b.length;i++){
         if(b[i]=="Nemo"){

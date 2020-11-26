@@ -1,4 +1,5 @@
-/*
+
+
 let arrayObj=[
     { name: "John", age: 21, budget: 23000 },
     { name: "Steve",  age: 32, budget: 40000 },
@@ -14,4 +15,3 @@ function getBudgets(a){
 }
   
 console.log(getBudgets(arrayObj));
-*/
